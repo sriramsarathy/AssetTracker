@@ -32,6 +32,7 @@ public class AssetHelper {
         continue;
     }
     return results;
+    
   }
   
   public boolean setCurrentValue(int year, Asset asset) {
